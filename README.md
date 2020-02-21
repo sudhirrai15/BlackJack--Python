@@ -1,5 +1,4 @@
 # BlackJack--Python
-Blackjack Game - Python
 
 Created a simple text-based BlackJack game
 The game is of one player versus an automated dealer.
